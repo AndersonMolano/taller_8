@@ -1,0 +1,60 @@
+.Imagen_Icon {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .Imagen_Icon img {
+    width: 250px; /* Ajusta el tamaño de la imagen según tus necesidades */
+    height: 250px;
+    border-radius: 50%; /* Hace que la imagen tenga forma redonda */
+  }
+
+
+footer {
+    display: flex;
+    justify-content: center;
+  } 
+
+/* Archivo project.css */
+
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* Estilos para el formulario */
+.form-label {
+  font-weight: bold;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  width: 100%;
+}
+
+.toggle-link {
+  width: 100%;
+}
+
+/* Estilos para el footer */
+footer {
+  text-align: center;
+  margin-top: 20px;
+  color: gray;
+  font-size: 12px;
+}
